@@ -19,3 +19,8 @@ Branches keep separate paths to continue working versions.
 How do the diagrams help you visualize the branch structure?
 
 They show the structure of your code changes - where branches occur.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The changes from both files are merged into one.
+Because it is similar to two paths joinng.
