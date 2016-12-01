@@ -24,3 +24,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The changes from both files are merged into one.
 Because it is similar to two paths joinng.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: automatic merging is faster than manually merging
+Cons: it may not merge how you expect it to
