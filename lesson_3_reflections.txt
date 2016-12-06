@@ -15,3 +15,8 @@ Branches diverge from the master path, allowing you to create new changes withou
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You may not want to merge the current version of the file on GitHub.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+The group would probably work on separate tasks. Or at different times to not interfere.
+It would be easier to not have to do commands, etc. It would be harder to work efficiently.
