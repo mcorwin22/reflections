@@ -20,3 +20,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 The group would probably work on separate tasks. Or at different times to not interfere.
 It would be easier to not have to do commands, etc. It would be harder to work efficiently.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making a separate branch is useful when you want to make changes without affecting the master branch.
+The benefits of having a separate branch are conserving the master branch.
+The benefits of leaving pushes in the master branch is convenience.
